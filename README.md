@@ -17,3 +17,6 @@ This project is a simple responsive landing page built using HTML and CSS. It in
 - Editor: Visual Studio Code (VS Code)
 - Browser: Google Chrome
 - Extension: Live Server for real-time preview
+  
+## Screenshot
+![Image](https://github.com/user-attachments/assets/6b79a7fe-2635-44ad-b8d0-3b8ae656d58a)
